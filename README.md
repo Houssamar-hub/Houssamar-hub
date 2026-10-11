@@ -92,8 +92,9 @@ Welcome to my GitHub! Feel free to explore my projects and follow my journey as 
 <br/>  
 
 # 📊 GitHub Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Houssamar-hub&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Houssamar-hub&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF" width="100%" />
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=l9iirch-hub&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
