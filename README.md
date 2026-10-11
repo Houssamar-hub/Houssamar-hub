@@ -92,9 +92,7 @@ Welcome to my GitHub! Feel free to explore my projects and follow my journey as 
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=l9iirch-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=l9iirch-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=l9iirch-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Houssamar-hub&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=l9iirch-hub&theme=merko&no-frame=false&no-bg=false&margin-w=4)
