@@ -1,4 +1,10 @@
+
 # Welcome to My GitHub Profile
+<div align="center">
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=houssamar-hub&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195910504%3Fu%3D959c6f17d53b2d1727a1292ebef460beb54e2380%26v%3D4" alt="houssamar-hub hero visual" />
+</p>
 
 Hi there, I'm **Houssam Elarsaoui**, a Full Stack Developer who specializes in **MERN** (MongoDB, Express, React, Node.js), **Python** (AI/ML), and **Electronics** (ESP32/Arduino). Here's some information about me and my projects.
 
