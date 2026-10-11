@@ -95,15 +95,11 @@ Welcome to my GitHub! Feel free to explore my projects and follow my journey as 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Houssamar-hub&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF" width="100%" />
 </div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=l9iirch-hub&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=l9iirch-hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/l9iirch-hub/l9iirch-hub/refs/heads/main/.github/img/download.gif" width="200" vspace="-20">
-</p>
----
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Houssamar-hub&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
+</div>
 
 
 <picture>
