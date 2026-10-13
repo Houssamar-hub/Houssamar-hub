@@ -100,7 +100,6 @@ Welcome to my GitHub! Feel free to explore my projects and follow my journey as 
   <img src="https://github-contributor-stats.vercel.app/api?username=Houssamar-hub&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l9iirch-hub/l9iirch-hub/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l9iirch-hub/l9iirch-hub/output/pacman-contribution-graph.svg">
