@@ -4,13 +4,14 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=houssamar-hub&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195910504%3Fu%3D959c6f17d53b2d1727a1292ebef460beb54e2380%26v%3D4" alt="houssamar-hub hero visual" />
 </p>
-<h3>Hi there!  I'm **Houssam El Arsaoui**, a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+<h4>Hi there!  I'm **Houssam El Arsaoui**, a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
   
  I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js), with an interest in **Python, Artificial Intelligence, and Machine Learning**. I'm also passionate about **Electronics and IoT**, working with technologies like ESP32 and Arduino.
+ 
 
  I enjoy solving problems, learning new technologies, and turning ideas into practical digital solutions.
 
-Welcome to my GitHub! Feel free to explore my projects and follow my journey as a developer.</h3>
+Welcome to my GitHub! Feel free to explore my projects and follow my journey as a developer.</h4>
 ## Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-houssamelarsaoui@gmail.com-red)](mailto:houssamelarsaoui@gmail.com)  
