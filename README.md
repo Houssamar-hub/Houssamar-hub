@@ -6,6 +6,7 @@
 </p>
 
 <h4>Hi there!  I'm **Houssam El Arsaoui**, a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+
   
  I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js), with an interest in **Python, Artificial Intelligence, and Machine Learning**. I'm also passionate about **Electronics and IoT**, working with technologies like ESP32 and Arduino.
  
