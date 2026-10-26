@@ -10,6 +10,7 @@
  I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js), with an interest in **Python, Artificial Intelligence, and Machine Learning**. I'm also passionate about **Electronics and IoT**, working with technologies like ESP32 and Arduino.
  
  I enjoy solving problems, learning new technologies, and turning ideas into practical digital solutions.
+ 
 Welcome to my GitHub! Feel free to explore my projects and follow my journey as a developer.</h4>
 ## Connect with Me
 
